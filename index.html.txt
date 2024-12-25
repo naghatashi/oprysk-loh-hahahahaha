@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Оприск лох</title>
+    <title>Оприск лох ахаххахахаххах пізда подивіться на нього</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -28,7 +28,8 @@
 </head>
 <body>
     <h1>Оприск лох ахаххахаа</h1>
-    <img src="image.jpg" alt="Весела картинка">
-    <p>Сайт для жартів :)</p>
+    <!-- Шлях до зображення -->
+    <img src="img/image.jpg" alt="Веселий лох">
+    <p>Сайт для даунів :)</p>
 </body>
 </html>
